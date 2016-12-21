@@ -1,6 +1,6 @@
-# HTML 2.0 en UTF-32 litle-endian
+# HTML 2.0 en UTF-32 little-endian
 
-Exemple de page web HTML 2.0 en [UTF-32](https://en.wikipedia.org/wiki/UTF-32) litle-endian.
+Exemple de page web HTML 2.0 en [UTF-32](https://en.wikipedia.org/wiki/UTF-32) little-endian.
 
 Les [Spécification du HTML 2.0](http://www.w3.org/MarkUp/html-spec/).
 
